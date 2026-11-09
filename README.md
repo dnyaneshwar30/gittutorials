@@ -1,4 +1,4 @@
-# Git Tutorial Series
+## Git Tutorial Series
 
 This is my first Git project.
 
